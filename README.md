@@ -1,6 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on a research paper on quantum-resistant cryptographic algorithms and an article on AI & ML in cybersecurity.
+<br>
+👯 I’m looking to collaborate on cybersecurity research, AI-based security solutions, and EV charging station optimization projects.
+<br>
+🤝 I’m looking for help with deep learning model optimization (DeepSeek AI), advanced cryptographic techniques, and Kaggle competition strategies.
+<br>
+🌱 I’m currently learning Network Security & Cryptography, advanced DSA, and practical penetration testing.
+<br>
+💬 Ask me about cybersecurity, ethical hacking, AI in security, ESP32 projects, and food business strategies.
+<br>
+⚡ Fun fact: I’m both a cybersecurity researcher and a food entrepreneur, running 'Highway Bites' in Hoshiarpur! 🚀🍗
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasstejmarwaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasstej-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjasstej@gmail.com) 
