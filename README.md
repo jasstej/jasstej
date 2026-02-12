@@ -1,32 +1,99 @@
-# 💫 About Me:
-🔭 I’m currently working on a research paper on quantum-resistant cryptographic algorithms and an article on AI & ML in cybersecurity.
-<br>
-👯 I’m looking to collaborate on cybersecurity research, AI-based security solutions, and EV charging station optimization projects.
-<br>
-🤝 I’m looking for help with deep learning model optimization (DeepSeek AI), advanced cryptographic techniques, and Kaggle competition strategies.
-<br>
-🌱 I’m currently learning Network Security & Cryptography, advanced DSA, and practical penetration testing.
-<br>
-💬 Ask me about cybersecurity, ethical hacking, AI in security, ESP32 projects, and food business strategies.
-<br>
-⚡ Fun fact: I’m both a cybersecurity researcher and a food entrepreneur, running 'Highway Bites' in Hoshiarpur! 🚀🍗
-<br>
+# 🔐 Jasstej Singh - Cybersecurity Researcher & Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasstejmarwaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasstej-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjasstej@gmail.com) 
+> Passionate about **network security**, **vulnerability research**, and **ethical hacking**. Building tools for the modern threat landscape.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jasstej&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jasstej&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasstej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+
+- 🔭 **Research**: Quantum-resistant cryptographic algorithms & AI/ML applications in cybersecurity
+- 🛡️ **Expertise**: Network reconnaissance, binary analysis, vulnerability assessment, and security automation
+- 🤖 **Current Focus**: Deep learning model optimization, advanced cryptographic techniques, and security tooling
+- 📚 **Learning**: Network Security & Cryptography, advanced DSA, practical penetration testing
+- 💼 **Also**: Entrepreneur running Highway Bites food venture in Hoshiarpur
+
+## Open to Collaboration
+- Cybersecurity research initiatives
+- AI-based security solutions  
+- Vulnerability disclosure & research
+- Open-source security tools
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jasstej&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jasstej) 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasstej-singh) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjasstej@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jasstejmarwaha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://jasstej.github.io/jasstejsingh/)
 
+--- 
+
+## 💻 Technical Skills
+
+### Security & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Web & Cloud
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Databases & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
+---
+## 📊 GitHub Statistics
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasstej&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasstej&theme=dark&hide_border=false&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasstej&theme=dark&hide_border=false)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+Visit my [**portfolio**](https://jasstej.github.io/jasstejsingh/) to see all 9+ security projects including:
+- **DorkVault** - Web reconnaissance automation
+- **DeVulDecompiler** - Binary analysis & reverse engineering
+- **Network Scanner** - Real-time network monitoring
+- **JSIntelliHawk** - JavaScript security analysis
+- **And more...**
+
+---
+
+## 📬 Get In Touch
+
+Have a security question? Working on a research initiative? Let's connect!
+
+- 💼 **Professional Inquiries**: [LinkedIn](https://linkedin.com/in/jasstej-singh)
+- 📧 **Email**: sjasstej@gmail.com
+- 🌐 **My Portfolio**: [jasstej.github.io/jasstejsingh](https://jasstej.github.io/jasstejsingh/)
+
+---
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=jasstej&icon=0&color=0)](https://github.com/jasstej)
+
+**Made with ❤️ by Jasstej Singh**
+
+</div>
